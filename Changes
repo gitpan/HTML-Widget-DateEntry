@@ -1,0 +1,21 @@
+
+RCS file: RCS/DateEntry.pm,v
+Working file: DateEntry.pm
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+HTML snippet generator for Date Entry fields
+----------------------------
+revision 1.2
+date: 2000/11/03 20:42:30;  author: kennedyh;  state: Exp;  lines: +7 -4
+minor doc tweaks
+----------------------------
+revision 1.1
+date: 2000/11/03 18:48:53;  author: kennedyh;  state: Exp;
+Initial revision
+=============================================================================
